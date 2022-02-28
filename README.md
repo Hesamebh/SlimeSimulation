@@ -6,10 +6,5 @@ https://github.com/SebLague/Slime-Simulation
 
 
 
-![alt text](https://github.com/Hesamebh/SlimeSimulation/blob/main/AnimNumba.mp4?raw=true)
-
-
-
-
 
 
