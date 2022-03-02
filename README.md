@@ -6,5 +6,9 @@ https://github.com/SebLague/Slime-Simulation
 
 
 
+![alt text](https://github.com/Hesamebh/SlimeSimulation/blob/main/IMG1000900.png?raw=true)
+
+
+
 
 
